@@ -1,0 +1,10 @@
+pydub
+speechrecognition
+wikipedia
+pygame
+pyaudio
+pyautogui
+gtts
+requests
+beautifulsoup4
+google-api-python-client

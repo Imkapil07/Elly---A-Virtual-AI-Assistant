@@ -1,0 +1,9 @@
+Narendra Modi is an Indian politician and the current Prime Minister of India, serving in this position since May 2014. He is a member of the Bharatiya Janata Party (BJP) and has been the Chief Minister of the state of Gujarat from 2001 to 2014.
+
+Narendra Modi was born on September 17, 1950, in a small town in the state of Gujarat, India. He grew up in a modest family and helped his father sell tea as a child. Modi joined the Rashtriya Swayamsevak Sangh (RSS), a Hindu nationalist organization, at a young age and became an full-time worker for the RSS in his early twenties.
+
+In the late 1980s, Modi joined the BJP and quickly rose through the ranks of the party. He was appointed as the Chief Minister of Gujarat in 2001 and served in that position for three consecutive terms. During his tenure as Chief Minister, Modi implemented a number of economic reforms and development projects, which helped to transform the state of Gujarat into a major commercial and industrial hub.
+
+In May 2014, Narendra Modi led the BJP to a landslide victory in the Indian general elections and became the Prime Minister of India. Since taking office, Modi has implemented a number of policies aimed at improving the Indian economy and reducing corruption. He has also taken a strong stance on national security and has sought to improve India's relations with other countries.
+
+Narendra Modi is a controversial figure, with some people praising him for his leadership and economic reforms, while others have criticized him for his handling of religious tensions and human rights issues. Despite this, Modi remains a popular and influential figure in Indian politics.
