@@ -1,4 +1,4 @@
 {
-  "API_KEY_YT": "AIzaSyAzcx_2HF1j_GFxeGZchYjfOeGjaFzjXVE",
-  "API_KEY_GROQ": "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"
+  "API_KEY_YT": "Your Google Cloud Youtube Data API Key",
+  "API_KEY_GROQ": "Your Groq API Key"
 }
